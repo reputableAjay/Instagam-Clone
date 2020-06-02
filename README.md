@@ -1,1 +1,1 @@
-# Instagam-Clone
+# SQLCloneProject
